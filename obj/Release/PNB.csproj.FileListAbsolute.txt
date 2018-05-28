@@ -1,0 +1,6 @@
+C:\Users\Fumse\AppData\Local\Temporary Projects\PNB\bin\Release\PNB.exe.config
+C:\Users\Fumse\AppData\Local\Temporary Projects\PNB\bin\Release\PNB.exe
+C:\Users\Fumse\AppData\Local\Temporary Projects\PNB\bin\Release\PNB.pdb
+C:\Users\Fumse\AppData\Local\Temporary Projects\PNB\obj\Release\PNB.csproj.CoreCompileInputs.cache
+C:\Users\Fumse\AppData\Local\Temporary Projects\PNB\obj\Release\PNB.exe
+C:\Users\Fumse\AppData\Local\Temporary Projects\PNB\obj\Release\PNB.pdb

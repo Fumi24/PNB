@@ -1,0 +1,7 @@
+C:\Users\Fumse\AppData\Local\Temporary Projects\PNB\bin\Debug\PNB.exe.config
+C:\Users\Fumse\AppData\Local\Temporary Projects\PNB\bin\Debug\PNB.exe
+C:\Users\Fumse\AppData\Local\Temporary Projects\PNB\bin\Debug\PNB.pdb
+C:\Users\Fumse\AppData\Local\Temporary Projects\PNB\obj\Debug\PNB.csprojAssemblyReference.cache
+C:\Users\Fumse\AppData\Local\Temporary Projects\PNB\obj\Debug\PNB.csproj.CoreCompileInputs.cache
+C:\Users\Fumse\AppData\Local\Temporary Projects\PNB\obj\Debug\PNB.exe
+C:\Users\Fumse\AppData\Local\Temporary Projects\PNB\obj\Debug\PNB.pdb
